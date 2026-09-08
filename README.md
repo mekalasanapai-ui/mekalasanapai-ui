@@ -61,7 +61,37 @@ Hi, My name is Mekala San-apai
 
 | Project | Technology | Description |
 |---------|------------|-------------|
-| 🎭 **Online Audition Screening System** <br> <img width="600" alt="Online Audition Screenshot" src="https://github.com/user-attachments/assets/4d37b221-539a-4029-8835-9e86bcecfd33" /> | Spring MVC • JavaScript • MySQL • Figma | A web-based system for managing online auditions. Features include **Login/Registration**, **Audition Application**, **Portfolio Upload**, and an **Admin Dashboard** for reviewing applicants. |
+| 🎭 **Online Audition Screening System** | Spring MVC • JavaScript • MySQL • Figma | A web-based system for managing online auditions with different user roles. |
+
+### 📝 Applicant Side
+- Example screens: **Application Form** (for audition registration)  
+- Features: User registration, form submission, portfolio upload  
+- Screenshots:  
+  <img width="1920" height="1080" alt="Screenshot 2026-09-08 200325" src="https://github.com/user-attachments/assets/011f17e6-b80d-4f8e-9250-8da52ee47ec2" />
+  <img width="1920" height="1080" alt="Screenshot 2026-09-08 200404" src="https://github.com/user-attachments/assets/9f03818c-1128-4f4d-a631-5b9e38d95780" />  
+  <img width="1920" height="1080" alt="Screenshot 2026-09-08 200428" src="https://github.com/user-attachments/assets/35ba3d0a-0d31-4bd2-8d71-9e96e5a22271" />  
+
+---
+
+### 🛠 Admin Dashboard
+- Example screen: **Admin Dashboard** (for managing applicants)  
+- Features: Review applications, manage audition data, oversee portfolio submissions  
+- Screenshot:  
+  <img width="1920" height="1080" alt="Screenshot 2026-09-08 200636" src="https://github.com/user-attachments/assets/1a48c155-356b-414c-8710-b13bb78aadef" />
+
+---
+
+### 🎯 Judge Evaluation
+- Example screens: **Evaluation Form** (for judges to score applicants)  
+- Features: Judge login, scoring system, comments  
+- Screenshots:  
+  <img width="1920" height="1080" alt="Screenshot 2026-09-08 200857" src="https://github.com/user-attachments/assets/1fed265d-e787-4cb3-a923-f375b09d30cd" />  
+  <img width="1920" height="1080" alt="Screenshot 2026-09-08 200931" src="https://github.com/user-attachments/assets/90d83f9e-d01a-4f80-8959-a58b042a8850" />  
+
+---
+
+### 📑 Presentation Slides
+👉 [View Project Presentation Slides](https://canva.link/e2zfdvrodazaqiy)
 
 ---
 
