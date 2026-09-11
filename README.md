@@ -53,7 +53,7 @@ Hi, My name is Mekala San-apai
 | 🎨 UI / UX | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) | Intermediate |
 | ☕ Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | Intermediate |
 | 🗄 Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | Intermediate |
-| 🛠 Tools | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) | Intermediate |
+| 🛠 Tools | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) | Learning |
 
 ---
 
